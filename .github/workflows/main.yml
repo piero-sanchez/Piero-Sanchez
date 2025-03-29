@@ -18,6 +18,6 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Run Hello World script
+    - name: Ejecutando hola mundo
       run: |
         echo "Hola Mundo desde GitHub Actions!"
